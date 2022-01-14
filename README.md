@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @elenirobtex
+- 👀 I’m interested in Web Development and Game Development. 
+- 🌱 I’m currently learning JavaScript and Python
+- 📫 How to reach me eleni_robtex@aleeas.com
